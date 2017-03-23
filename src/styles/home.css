@@ -1,0 +1,52 @@
+.personal_identity{
+    float: right;
+    height:160px;
+    width:160px;
+    position: relative;
+    background-image: url("../imgs/personal.jpg");
+    background-position: center;
+    position: relative;
+}
+
+.jumbotron{
+    margin-bottom: 0px;
+    background-color: blue;
+
+    background: -webkit-linear-gradient(lightblue,lightskyblue); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(lightblue,lightskyblue); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(lightblue,lightskyblue); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(lightblue,lightskyblue); /* Standard syntax */
+
+}
+
+.panel-container{
+    float : right;
+    height: 200px;
+    width: 500px;
+    padding-right: 20px;
+}
+
+.panel-container{
+    float: right;
+    background-color: blue;
+
+    background: -webkit-linear-gradient(lightblue,mediumblue); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(lightblue,mediumblue); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(lightblue,mediumblue); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(lightblue,mediumblue); /* Standard syntax */
+}
+
+.footer {
+    clear: both;
+    position: relative;
+    z-index: 10;
+    height: 3em;
+    margin-top: -3em;
+    text-align: center;
+    background-color: blue;
+    background: -webkit-linear-gradient(lightblue,lightskyblue); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(lightblue,lightskyblue); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(lightblue,lightskyblue); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(lightblue,lightskyblue);
+    padding-top: 5px;
+}
